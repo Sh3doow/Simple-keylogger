@@ -1,7 +1,9 @@
 # Keylogger
-This is a simple keylogger, basicly he will register in a .txt file what keyword u press
+This is a simple keylogger, basicly he will register in a .txt file what keyword u press.
 
 # 2 easy steps
-<li>Install dependecies</li>
+<li>Install library</li>
 <li>Run the program</li>
 
+# Library
+    pip install pynput
