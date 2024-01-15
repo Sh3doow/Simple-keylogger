@@ -5,5 +5,5 @@ This is a simple keylogger, basicly he will register in a .txt file what keyword
 <li>Install library</li>
 <li>Run the program</li>
 
-# Library
+# Library install
     pip install pynput
